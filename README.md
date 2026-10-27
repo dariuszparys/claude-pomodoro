@@ -8,6 +8,9 @@ A Pomodoro timer that sits in a pane beside the chat in Claude Code. It defaults
 - A toast, a short chime (macOS) and a status line entry such as `🍅 Focus 23:41` while it runs
 - **Adjust** opens − / + steppers for the focus (5 minute steps) and break (1 minute steps) lengths, and a sound toggle
 
+<img width="4330" height="3096" alt="CleanShot 2026-10-27 at 07 34 36@2x" src="https://github.com/user-attachments/assets/9d18efd2-16c5-4f73-b713-63877cc88ed7" />
+
+
 ## Install
 
 At the prompt of a Claude Code terminal session:
