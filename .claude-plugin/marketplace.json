@@ -1,0 +1,5 @@
+{
+  "name": "claude-pomodoro",
+  "owner": { "name": "Dariusz Parys" },
+  "plugins": [{ "name": "pomodoro", "source": "./" }]
+}
