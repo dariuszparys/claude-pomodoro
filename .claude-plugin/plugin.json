@@ -2,5 +2,6 @@
   "name": "pomodoro",
   "version": "0.1.0",
   "description": "A Pomodoro timer pane beside the chat: 25 minutes of focus, a 5 minute break, both adjustable.",
+  "license": "MIT",
   "types": "./types/index.d.ts"
 }

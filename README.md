@@ -35,3 +35,7 @@ In the desktop app, where `/plugin` does not run: click + next to the prompt box
 | `/pomodoro 50 10` | Sets 50 minutes of focus and a 10 minute break |
 
 The pane opens by itself at the start of a session where there is room for it beside the chat; otherwise run `/pomodoro`.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
